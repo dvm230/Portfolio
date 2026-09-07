@@ -8,9 +8,9 @@
   --coral: #e8b5a4;
   --green: #d5eade;
   --rule: rgba(23, 32, 28, .18);
-  --sans: 'DM Sans', Arial, sans-serif;
-  --mono: 'DM Mono', monospace;
-  --serif: 'Playfair Display', Georgia, serif;
+  --sans: Papyrus, fantasy;
+  --mono: Papyrus, fantasy;
+  --serif: Papyrus, fantasy;
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
